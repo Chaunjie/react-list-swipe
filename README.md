@@ -30,6 +30,9 @@
             </div>
         </div>
     </ListSwipe>
+    
+##Screenshot
+    ![image](https://chaunjie.github.io/react-list-swipe/screenshot/1.gif)
 
 ##Environment version
 
