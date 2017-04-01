@@ -31,9 +31,15 @@
         </div>
     </ListSwipe>
     
+    
+    
+    
 ##Screenshot
 
    ![image](https://chaunjie.github.io/react-list-swipe/screenshot/1.gif)
+   ![image](https://chaunjie.github.io/react-list-swipe/screenshot/2.gif)
+   
+   
 
 ##Environment version
 
